@@ -1,2 +1,2 @@
 print("Probando git")
-print("HICE OTRO COMIT")
+print("HICE OTRO COMMIT") 
